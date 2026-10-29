@@ -3,120 +3,176 @@
 <img src="./assets/web3-architect-header.svg" alt="Ömer Elibol — Blockchain Architect" width="100%" />
 
 <p>
-  <a href="https://github.com/Cooller458"><img src="https://img.shields.io/badge/GitHub-Cooller458-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/ömer-elibol-b55771154"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-  <a href="mailto:omrelibol4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0b1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+  <a href="https://github.com/Cooller458"><img src="https://img.shields.io/badge/GitHub-Cooller458-071426?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/ömer-elibol-b55771154"><img src="https://img.shields.io/badge/LinkedIn-Connect-071426?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="mailto:omrelibol4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-071426?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 </p>
 
-**Protocol Architecture · Smart Contracts · EVM Ecosystems · Full-Stack Web3**
+`PROTOCOL ARCHITECTURE` &nbsp; `SMART CONTRACTS` &nbsp; `EVM ECOSYSTEMS` &nbsp; `WEB3 SYSTEMS`
 
 </div>
 
 ---
 
-## `01` — About
+##  ◈  ABOUT / THE MISSION
 
-I'm a **Blockchain Architect & Full-Stack Developer** focused on designing and building secure, scalable decentralized systems — from protocol-level architecture and smart contracts to production-ready applications.
+I design and build **blockchain systems that connect protocol-level thinking with usable products**. My focus spans EVM architecture, Solidity engineering, cross-chain components, and the backend/frontend systems required to bring Web3 products into production.
 
-My work sits at the intersection of **L1/L2/L3 architecture, Solidity engineering, cross-chain interoperability, and fintech infrastructure**. I enjoy turning complex requirements into practical systems with clear boundaries, thoughtful security assumptions, and maintainable engineering.
-
-- **Architecture:** EVM-compatible chains, L1/L2/L3 design concepts, protocol integration, and cross-chain systems.
-- **Smart contracts:** Solidity, upgradeable contracts, launchpads, NFT systems, staking, lending, and DeFi primitives.
-- **Product engineering:** TypeScript services, APIs, wallet-connected applications, and Web3 tooling.
-- **Engineering mindset:** Security-first design, explicit trade-offs, testable components, and scalable infrastructure.
-
-## `02` — Core Expertise
+I approach architecture through **security boundaries, explicit trade-offs, modularity, and operational reliability** — not just smart contracts in isolation.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### ⛓️ Blockchain & Protocol Architecture
-- EVM-compatible architecture and chain integrations
-- L1 / L2 / L3 concepts and scaling approaches
-- Cross-chain communication and bridge components
-- Protocol design, tokenomics, and system boundaries
-- Ethereum, BNB Chain, Arbitrum, Optimism, zkSync Era, TON
+### `6+`
+**Years in Blockchain**
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### ◈ Smart Contract Engineering
-- Solidity and EVM development
-- Upgradeable contracts and contract tooling
-- Launchpads, token sales, and vesting
-- NFT marketplaces, staking, and lending
-- Security review, vulnerability remediation, and testing
+### `$250K`
+**NFT Launch Raised**
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### ⌘ Full-Stack Web3
-- TypeScript, JavaScript, Node.js, and NestJS
-- React, Next.js, wallet-connected dApps
-- REST, GraphQL, WebSocket, and microservices
-- Wallet infrastructure, browser extensions, and APIs
-- PostgreSQL, MongoDB, and Firebase
-
-</td>
-<td width="50%" valign="top">
-
-### ◫ Fintech & Distributed Systems
-- Exchange and OTC platform architecture
-- Matching-engine and market-data integrations
-- Wallet, payment, and ledger infrastructure
-- Trading automation and on-chain analytics
-- Real-time services and game-backend integrations
+### `0 → 9.2`
+**Hacken Security Score**
 
 </td>
 </tr>
 </table>
 
-## `03` — Technology Stack
+<sub>Selected CV metrics: 6+ years in blockchain development; NFT launch system raised $250K; Hacken security score improved from 0 to 9.2 after fixes; 10+ products shipped across web, backend, and chain.</sub>
+
+---
+
+##  ◈  CAPABILITY MAP
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/01-0b2438?style=flat-square" alt="01"/> Protocol & Chain Architecture
+
+- L1 / L2 / L3 architecture concepts
+- EVM-compatible network design and integration
+- Layer-2 / Layer-3 ecosystem research
+- Cross-chain bridges and transaction flows
+- Protocol boundaries, scaling, and tokenomics
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/02-0b2438?style=flat-square" alt="02"/> Smart Contract Systems
+
+- Solidity and upgradeable contracts
+- Launchpads, presales, vesting, and token systems
+- NFT marketplaces, staking, lending, and subscriptions
+- Contract security remediation and test coverage
+- Hardhat, Truffle, Ganache, and Remix
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/03-0b2438?style=flat-square" alt="03"/> Web3 Product Engineering
+
+- TypeScript, Node.js, NestJS, and Express
+- React, Next.js, and wallet-connected dApps
+- REST, GraphQL, WebSocket, and microservices
+- Wallet infrastructure, extensions, and APIs
+- PostgreSQL, MongoDB, and Firebase
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/04-0b2438?style=flat-square" alt="04"/> Fintech & Distributed Systems
+
+- Centralized, decentralized, and OTC exchange systems
+- Matching engines and market-data streaming
+- Payment, ledger, and wallet infrastructure
+- Trading automation and on-chain analytics
+- Real-time game backends and blockchain integrations
+
+</td>
+</tr>
+</table>
+
+##  ◈  TECHNOLOGY CONSTELLATION
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=ts,js,solidity,go,html,css&theme=dark" alt="TypeScript, JavaScript, Solidity, Go, HTML and CSS" />
+**LANGUAGES**
 
-### Blockchain & Web3
-<img src="https://skillicons.dev/icons?i=ethereum,solidity&theme=dark" alt="Ethereum and Solidity" />
+<img src="https://skillicons.dev/icons?i=ts,js,solidity,go,html,css&theme=dark" alt="TypeScript, JavaScript, Solidity, Go, HTML, CSS"/>
 
-`EVM` · `BNB Chain` · `Arbitrum` · `Optimism` · `zkSync Era` · `TON` · `Whitechain`
+**FRONTEND / BACKEND**
 
-### Frontend & Backend
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,graphql&theme=dark" alt="React, Next.js, Node.js, NestJS, Express and GraphQL" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,graphql&theme=dark" alt="React, Next.js, Node.js, NestJS, Express, GraphQL"/>
 
-### Data, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,docker,git,github,cloudflare&theme=dark" alt="PostgreSQL, MongoDB, Firebase, Docker, Git, GitHub and Cloudflare" />
+**DATA / INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,docker,git,github,cloudflare&theme=dark" alt="PostgreSQL, MongoDB, Firebase, Docker, Git, GitHub, Cloudflare"/>
 
 </div>
 
-**Web3 libraries:** Wagmi · Viem · Ethers.js · Web3.js · Bitquery GraphQL  
-**Smart contract tooling:** Hardhat · Foundry concepts · Truffle · Ganache · Remix  
-**Testing & delivery:** Jest · Mocha/Chai · Hardhat tests · GitHub Actions · CI/CD  
-**Additional domains:** PlayFab · Unreal Engine 5 integrations · Telegram Mini Apps · MQL5 · Pine Script
+| Domain | Tools & ecosystems |
+|---|---|
+| **Networks** | Ethereum · BNB Chain · Arbitrum · Optimism · zkSync Era · TON · Whitechain · Custom EVM-compatible L1 |
+| **Web3 libraries** | Wagmi · Viem · Ethers.js · Web3.js · Bitquery GraphQL |
+| **Contracts & testing** | Solidity · Hardhat · Truffle · Ganache · Remix · Jest · Mocha/Chai |
+| **Backend & APIs** | Node.js · NestJS · Express · Hono · REST · GraphQL · WebSocket |
+| **Additional** | Go · Tolk · MQL5 · Pine Script · PlayFab · Unreal Engine 5 · Telegram Mini Apps |
 
-## `04` — Architecture Principles
+---
 
-- **Security by design:** threat-model assumptions early, validate trust boundaries, and test failure paths.
-- **Modular protocols:** keep execution, data, settlement, and application concerns clearly separated.
-- **Interoperability:** treat cross-chain messaging, bridges, and wallet connectivity as explicit system boundaries.
-- **Production mindset:** observability, deterministic behavior where possible, automated testing, and maintainable APIs.
-- **Pragmatic scalability:** choose architecture based on measurable constraints rather than hype.
+##  ◈  ARCHITECTURE PRINCIPLES
 
-## `05` — Connect
+<table>
+<tr>
+<td width="25%" align="center">
+
+**01 / SECURITY**
+
+Trust boundaries first. Threats and failure paths are part of the design.
+
+</td>
+<td width="25%" align="center">
+
+**02 / MODULARITY**
+
+Clear interfaces between protocol, contracts, services, and clients.
+
+</td>
+<td width="25%" align="center">
+
+**03 / INTEROPERABILITY**
+
+Cross-chain communication treated as a first-class system concern.
+
+</td>
+<td width="25%" align="center">
+
+**04 / DELIVERY**
+
+Testable components, observable services, and maintainable systems.
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Cooller458-111827?style=flat-square&logo=github)](https://github.com/Cooller458)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ömer_Elibol-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ömer-elibol-b55771154)
-[![Email](https://img.shields.io/badge/Email-omrelibol4%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omrelibol4@gmail.com)
+### BUILDING THE NEXT LAYER OF WEB3
 
-<br/>
+*Better protocols. Stronger infrastructure. Real-world utility.*
 
-*Building better infrastructure for a more decentralized future.*
+<a href="https://github.com/Cooller458">GitHub</a> ·
+<a href="https://www.linkedin.com/in/ömer-elibol-b55771154">LinkedIn</a> ·
+<a href="mailto:omrelibol4@gmail.com">Email</a>
 
 </div>
